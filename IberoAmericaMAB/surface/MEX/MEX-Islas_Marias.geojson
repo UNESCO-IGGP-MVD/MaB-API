@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "file_name_MEX-Islas_Marias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "IberoMAB-MEX-040", "country": "Mexico", "name": "Islas Marías", "file_name": "MEX-Islas_Marias", "iso2c": "MX", "iso3c": "MEX" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -107.0537, 21.6988 ], [ -106.8508, 21.8917 ], [ -106.6662, 22.0697 ], [ -106.4383, 21.8451 ], [ -106.1605, 21.5773 ], [ -105.9027, 21.3328 ], [ -106.0957, 21.1349 ], [ -106.267, 20.9653 ], [ -106.4932, 21.1765 ], [ -106.8275, 21.4925 ], [ -107.0537, 21.6988 ] ] ] ] } }
+]
+}

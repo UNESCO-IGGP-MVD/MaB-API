@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "file_name_ARG-Laguna_Blanca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "IberoMAB-ARG-002", "country": "Argentina", "name": "Laguna Blanca", "file_name": "ARG-Laguna_Blanca", "iso2c": "AR", "iso3c": "ARG" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -67.0134, -25.9149 ], [ -66.8895, -25.7724 ], [ -66.7346, -25.8343 ], [ -66.6107, -25.9768 ], [ -66.5735, -26.2185 ], [ -66.5487, -26.3858 ], [ -66.8151, -26.615 ], [ -67.0134, -26.6026 ], [ -67.0754, -26.4167 ], [ -67.1125, -26.2618 ], [ -67.1249, -26.0512 ], [ -67.0134, -25.9149 ] ] ] ] } }
+]
+}

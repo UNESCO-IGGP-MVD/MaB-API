@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "file_name_MEX-Banco_Chinchorro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "IberoMAB-MEX-014", "country": "Mexico", "name": "Banco Chinchorro", "file_name": "MEX-Banco_Chinchorro", "iso2c": "MX", "iso3c": "MEX" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -87.4795, 18.3574 ], [ -87.4795, 18.8049 ], [ -87.2036, 18.8049 ], [ -87.2036, 18.3574 ], [ -87.4795, 18.3574 ] ] ] ] } }
+]
+}

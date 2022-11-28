@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "file_name_ARG-Nacunan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "IberoMAB-ARG-004", "country": "Argentina", "name": "Ñacuñán", "file_name": "ARG-Nacunan", "iso2c": "AR", "iso3c": "ARG" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -67.9469, -33.9974 ], [ -67.9469, -33.9447 ], [ -67.8024, -33.9447 ], [ -67.7994, -33.9943 ], [ -67.7979, -34.0786 ], [ -67.9469, -34.0741 ], [ -67.9469, -33.9974 ] ] ] ] } }
+]
+}
